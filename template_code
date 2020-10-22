@@ -7,10 +7,10 @@ def position_manager(master_judge,paper_cup,x,y):
         
          #ホンスワン
          if paper_cup==True:
-             #position_historyの末尾の紙コップのx座標y座標
+             #position_baseの末尾の紙コップのx座標y座標
              return position_base[]
          else:
-             #position_historyの末尾のボールのx座標y座標
+             #position_baseの末尾のボールのx座標y座標
              return position_base[]
          
      else:
